@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I%27m%20Munificent%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I%27m%20Nakul%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -17,7 +17,7 @@
 ## 🧑‍💻 About Me
 
 ```typescript
-const munificent = {
+const nakul = {
   role:       "Full-Stack Developer",
   location:   "India 🇮🇳",
   passion:    ["Building products", "Clean code", "Great UX"],
